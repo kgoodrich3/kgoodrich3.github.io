@@ -1,0 +1,13 @@
+h1 {
+  font-family: serif;
+  font-size: 20pt;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p {
+  font-family: monospace;
+  font-size: 12pt;
+  color: white;
+}
