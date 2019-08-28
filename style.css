@@ -1,8 +1,16 @@
+<style>
+
 h1 {
   font-weight: bold;
   font-style: italic;
+  background-color: black;
+  color: white;
 }
 
 p {
   font-family: monospace;
+  background-color: black;
+  color: white;
 }
+
+</style>
