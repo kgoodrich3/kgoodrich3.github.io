@@ -1,10 +1,6 @@
-body {
-  background-color: #d0e4fe;
-}
-
 h1 {
   font-size: 20pt;
-  color: white;
+  color: blue;
   font-weight: bold;
   font-style: italic;
 }
@@ -12,5 +8,5 @@ h1 {
 p {
   font-family: monospace;
   font-size: 12pt;
-  color: white;
+  color: blue;
 }
